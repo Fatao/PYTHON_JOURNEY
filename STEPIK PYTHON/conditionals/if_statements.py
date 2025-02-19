@@ -1,6 +1,17 @@
-'''
+# code before conditional block
 
-#  You're planning to take a trip to CodeLand to watch your favorite computer scientist participate in a coding competition (what an opportunity!). CodeLand is exactly distance miles away, and the show starts in time hours. You know that, regardless of speed limits, the fastest your car can drive is exactly max_speed miles per hour.
+if logical_expression:
+    # code inside if-statement
+elif different_logical_expression:
+    # code inside elif-statement
+
+# code after conditional block
+
+
+
+
+'''
+You're planning to take a trip to CodeLand to watch your favorite computer scientist participate in a coding competition (what an opportunity!). CodeLand is exactly distance miles away, and the show starts in time hours. You know that, regardless of speed limits, the fastest your car can drive is exactly max_speed miles per hour.
 
 Assume that the variables distance, time, and max_speed have already been defined, with each variable containing an arbitrary int value.
 
